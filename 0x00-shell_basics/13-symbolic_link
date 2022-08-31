@@ -1,2 +1,2 @@
 #!/bin/bash 
-ln -s /bin /is (_ls_) = remb don't put bracket..
+ln -s /bin/is _ls_
