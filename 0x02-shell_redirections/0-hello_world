@@ -1,2 +1,2 @@
 #!/bin/bash
-./hello.sh | cat -E
+./hello.sh | cat -e
